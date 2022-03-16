@@ -31,6 +31,6 @@ These are my main skills
 ![](https://img.shields.io/badge/Skills-DataAnalysis-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Skills-ExperimentalDesign-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 
-# These are my GitHub stats as I get started
+# Check out my GitHub stats as I get started
 ![Priscilas's GitHub stats](https://github-readme-stats.vercel.app/api?username=prislb&show_icons=truetheme=vue-dark)
 
