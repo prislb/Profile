@@ -1,6 +1,5 @@
 ![I am Pyscholinguist 🧠👅](https://github.com/prislb/Profile/blob/c5c51e1c6e2be3d2f3bde5a4cc0988bef998a7f2/banner-binary.jpeg)
 
-
 <h1 align="center"> My name is Priscila </h1>
 <div align="center"> <h1 align="center"> I am a Pyscholinguist! 🧠👅 </h1> </div>
 
