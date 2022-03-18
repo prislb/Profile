@@ -6,7 +6,7 @@
 
 ### You can find me here
 [![Linkedin Badge](https://img.shields.io/badge/-prislb-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prislb/)](www.linkedin.com/in/prislb)
-[![Website Badge](https://img.shields.io/badge/-prislb.web-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ry2y67bvrg.wixsite.com/my-site)](https://ry2y67bvrg.wixsite.com/my-site)
+[![Website Badge](https://img.shields.io/badge/-prislb.web-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ry2y67bvrg.wixsite.com/my-site)](https://ry2y67bvrg.wixsite.com/prislb)
 
 ### But also check out
 - [ResearchGate](https://www.researchgate.net/profile/Priscila-Lopez-Beltran)
