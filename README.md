@@ -20,13 +20,18 @@
 ## Technologies & Tools
 These are my main skills 
 
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
-![](https://img.shields.io/badge/Query-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tools-PostrgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
-![](https://img.shields.io/badge/Shell-Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
+
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![](https://img.shields.io/badge/Tools-EyeTracking-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-Pupillometry-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+
+![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 
 # Check out my GitHub stats as I get started
 ![Priscilas's GitHub stats](https://github-readme-stats.vercel.app/api?username=prislb&show_icons=truetheme=vue-dark)
