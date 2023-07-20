@@ -13,7 +13,7 @@
 - [ORCID](https://orcid.org/0000-0002-5396-8264)
 - [Kaggle](https://www.kaggle.com/priscilalpezbeltrn)
 
-### I received a Ph.D. in Linguistics and Language Science Penn State University. My main dissertation investigated the processing of morphosyntax during real time comprehension and production i heritage speakers using eye-tracking and auditory pupillometry. 
+### I received a Ph.D. in Linguistics and Language Science from Penn State University. My main dissertation investigated the processing of morphosyntax during real time comprehension and production i heritage speakers using eye-tracking and auditory pupillometry. 
 
 ### In my current role as a Research Project Manager, my responsibilities include conducting research using both quantitative and qualitative methods, analyzing data, and creating reports to present findings to stakeholders and sponsors, as well as disseminating findings to the general public through outreach activities and digital media. In addition, I manage all project timelines, including cost projections and budgets.
 
